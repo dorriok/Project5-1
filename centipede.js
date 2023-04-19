@@ -26,3 +26,15 @@ buttons.forEach((button) => {
     document.body.style.backgroundColor = 'black';
   });
 });
+
+
+
+
+
+function playAudio() {
+  var audio = document.getElementById("Centipede Repellent Sound __ Suara pengusir kelabang.mp3");
+  audio.play();
+}
+
+
+

@@ -18,12 +18,40 @@ Centipede Repellent
 
  
 
-  <audio src="Centipede Repellent Sound __ Suara pengusir kelabang.mp3" controls></audio>
+ 
 
 
   
 
+<div class="wrapper">
 
+<div class="tower">
+    <div class="signal">
+        <div class="rings circle animated"></div>
+    </div>
+    <div class="dot circle"></div>
+    <div class="triangle"></div>
+</div>
+
+<div class="player circle">
+  <div class="buffering circle animated"></div>
+  <div class="triangle" onclick="playAudio()"></div>
+</div>
+<audio id="audio">
+  <source src="path/to/audio.mp3" type="audio/mp3">
+</audio>
+
+
+
+</div> 
+
+
+
+
+
+
+
+  
 
 
   
@@ -77,6 +105,7 @@ Centipede Repellent
 
 
     <script src="centipede.js"></script>
+  
 </body>
 </html>
 

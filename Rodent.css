@@ -6,7 +6,7 @@ padding: 60px;
 position: relative;
 text-align: center;
 font-size: 80px;
-color: rgb(0, 206, 86);
+color: rgb(0, 230, 165);
 }
 
 
@@ -47,7 +47,7 @@ body {
         width: 100px;
         height: 100px;
         border-radius: 50%;
-        background-color: #4CAF50;
+        background-color: #6c7b6c;
         margin: 0 15px;
         cursor: pointer;
         box-shadow: 0px 0px 10px rgba(0, 235, 188, 0.7);
