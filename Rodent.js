@@ -1,9 +1,4 @@
-const links = {
-    button1: 'https://example.com/link1',
-    button2: 'https://example.com/link2',
-    button3: 'https://example.com/link3',
-    button4: 'https://example.com/link4',
-  };
+
   
 
 
