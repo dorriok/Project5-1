@@ -57,6 +57,21 @@ body {
       
       .button:hover {
         background: #00ebbc; }
+
+      .button:hover {
+          background-image: url(attr(data-bg));
+
+          cursor: pointer; /* change cursor to pointer when hovering over button */
+          background-image: url(attr(data-bg)); /* set background image of body to value of data-bg attribute of hovered button */
+          background-repeat: no-repeat;
+          background-size: cover;
+      }
+
+      body {
+        background-image: url(initial-background.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
         
 
       .button img {
@@ -70,11 +85,4 @@ body {
       }
    
 
-    
-
-
-
-
-
-
-
+      
