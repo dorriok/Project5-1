@@ -36,6 +36,27 @@
   
   @media only screen and (min-width: 600px) {
 
+    .homeparent {
+
+      position: relative;
+      height: 160vh}
+  
+  
+       .home {
+        position: absolute; 
+        top: 0; 
+        left: 100px;}
+  
+    
+       .home img {
+      height: 40px;
+      width: 40px;}
+  
+
+
+
+
+
 
     body {
       background: url(cockpng.png);
@@ -180,6 +201,33 @@
   
   
   @media only screen and (max-width: 600px) {
+
+
+    .homeparent {
+
+      position: relative;
+      height: 165vh;
+    }
+       .home {
+        position: absolute; 
+        top: 0; 
+        right: 0;
+       
+    
+       }
+    
+       .home img {
+      height: 40px;
+      width: 40px;
+    
+       }
+
+
+
+
+
+
+
     body {
       background: url(cockpng.png);
      background-size: 480px;
