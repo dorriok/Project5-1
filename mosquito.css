@@ -104,7 +104,7 @@
   
   
   
-  /* Next & previous buttons */
+  
   .prev, .next {
       cursor: pointer;
       position: absolute;
@@ -121,7 +121,7 @@
       z-index: 0;
     }
     
-    /* Position the "next button" to the right */
+
     .next {
       right: 0;
     
@@ -196,7 +196,7 @@
   
   @media only screen and (max-width: 600px) {
 
-    
+
 
     .homeparent {
 
@@ -275,7 +275,7 @@
   
   
   
-   /* Next & previous buttons */
+
    .prev, .next {
       cursor: pointer;
       position: absolute;
@@ -291,7 +291,7 @@
       user-select: none;
     }
     
-    /* Position the "next button" to the right */
+  
     .next {
       right: 0;
     

@@ -56,7 +56,7 @@
       height: 40px;
       width: 40px;}
 
-      
+
 
     body {
     background: url(RatRealLife.webp);
@@ -107,7 +107,7 @@
   
   
   
-  /* Next & previous buttons */
+
   .prev, .next {
       cursor: pointer;
       position: absolute;
@@ -124,7 +124,7 @@
       z-index: 0;
     }
     
-    /* Position the "next button" to the right */
+    
     .next {
       right: 0;
     
@@ -283,7 +283,7 @@
   
   
   
-   /* Next & previous buttons */
+   
    .prev, .next {
       cursor: pointer;
       position: absolute;
@@ -298,8 +298,7 @@
       border-radius: 0 3px 3px 0;
       user-select: none;
     }
-    
-    /* Position the "next button" to the right */
+
     .next {
       right: 0;
     
