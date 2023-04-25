@@ -72,3 +72,12 @@ track.addEventListener("ended", function() {
 });
 
 
+
+
+function goToPreviousPage() {
+  window.location.href = 'previous-page.html';
+}
+
+function goToNextPage() {
+  window.location.href = 'next-page.html';
+}
