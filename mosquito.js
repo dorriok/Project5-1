@@ -38,6 +38,12 @@ buttons.forEach((button) => {
 
 
 
+
+
+
+
+
+
 et audioIsPlaying = false;
 
 $( document ).ready(function() {

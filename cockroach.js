@@ -26,3 +26,10 @@ buttons.forEach((button) => {
     document.body.style.backgroundColor = 'black';
   });
 });
+
+
+
+
+
+
+
