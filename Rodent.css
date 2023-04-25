@@ -35,6 +35,12 @@
   
   
   @media only screen and (min-width: 600px) {
+
+    body {
+      background: url(RatRealLife.webp);
+      background-size: cover;
+      background-color: #000000;}
+
       
         .button-container {
           display: flex;
@@ -72,10 +78,8 @@
           transform: scale(0.7);
         }
   
-        body {
-        background: url(centipede.jpg);
-        background-size: cover;
-        background-size: 100% 100%;}
+  
+   
   
   
   
@@ -170,11 +174,21 @@
   
   
   @media only screen and (max-width: 600px) {
-      body {
+
+
+    body {
+      background: url(RatRealLife.webp);
+     background-size: 500px;
+     
+     background-repeat: no-repeat!important;
+     background-position: center 280px;
+     
+      background-color: #000000;}
   
+    
           
   
-      background-image: url(centipede.jpg);}
+     
   
   
       .button-container {
