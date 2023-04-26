@@ -15,7 +15,7 @@ const links = {
   
   
   function playAudio() {
-  var audio = document.getElementById("Anti Mosquito - Male Mosquito Sounds - 1 hour - 100% WORKING.mp3");
+  var audio = document.getElementById("15000Hz Mosquito Repellent.mp3");
   audio.play();
   }
   
