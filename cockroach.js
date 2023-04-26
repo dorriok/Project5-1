@@ -15,7 +15,7 @@ const links = {
 
 
 function playAudio() {
-var audio = document.getElementById("Centipede Repellent Sound __ Suara pengusir kelabang.mp3");
+var audio = document.getElementById("Cockcroach repellent.mp3");
 audio.play();
 }
 
