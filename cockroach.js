@@ -13,8 +13,9 @@ const links = {
 
 
 
+
 function playAudio() {
-var audio = document.getElementById("Anti Cockroaches Repellent Sound - 20kHz to 30kHz sound waves. #anticockroaches #chasecockroaches.mp3");
+var audio = document.getElementById("Centipede Repellent Sound __ Suara pengusir kelabang.mp3");
 audio.play();
 }
 
@@ -63,9 +64,3 @@ window.location.href = 'previous-page.html';
 function goToNextPage() {
 window.location.href = 'next-page.html';
 }
-
-
-
-
-
-
